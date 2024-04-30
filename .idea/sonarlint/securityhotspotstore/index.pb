@@ -34,3 +34,13 @@ G
 src/application/UI.java,f/0/f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
 w
 G.idea/sonarlint/issuestore/6/f/6f5048016a57bbf452eb3bb3965bb62dfb909033,a/b/ab8d3f9fb91b77409ab18f8cd3ab8cceae13009e
+J
+src/chess/enums/Color.java,e/9/e902f7265e07be8001c348a78c75a6e386f17912
+C
+src/chess/Rook.java,9/0/90e9085f11d63066f3ca3611ab668bea0cd87214
+J
+src/chess/pieces/Rook.java,f/f/ff69bb3f200ec2b38c7858168986f747562072f9
+Q
+!src/chess/pieces/pieces/King.java,9/b/9b58685a136f3013d8ced34ab0607b42251c2586
+J
+src/chess/pieces/King.java,d/9/d9b3000faae84ba619d472bc343f9814addae9c3
