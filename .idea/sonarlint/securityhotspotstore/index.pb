@@ -14,3 +14,5 @@ w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e/d/ed67eb178d523a4b3f117dcbe0eda5196367ceec
 =
 ChessGame.iml,c/d/cd9c575d786cc82f1a8e7d2a07cd185ec15bce93
+L
+src/application/Program.java,a/b/ab8a90cc0b2d9265103c5da6fb5ee7edad0f0f40
