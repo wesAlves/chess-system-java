@@ -22,12 +22,8 @@ H
 src/boardgame/Piece.java,f/7/f7c0d7b204933cce6c86f02bbcf5c27544898e79
 H
 src/boardgame/Board.java,e/4/e4b0a6df6d57bc0ccb9e957539275a4cbde2513e
-D
-src/chess/color.java,f/5/f506579f84a0a61cebe4fa9a30cd0c8a6251a5d2
 I
 src/chess/ChessPiece.java,7/1/71903bb1710ecb2497d05dbcfd95a7ebafcda239
-D
-src/chess/Color.java,6/f/6f5048016a57bbf452eb3bb3965bb62dfb909033
 I
 src/chess/ChessMatch.java,a/f/afffe56e7c2d80517c9aec9f344453fe3e900f7c
 G
@@ -36,11 +32,9 @@ w
 G.idea/sonarlint/issuestore/6/f/6f5048016a57bbf452eb3bb3965bb62dfb909033,a/b/ab8d3f9fb91b77409ab18f8cd3ab8cceae13009e
 J
 src/chess/enums/Color.java,e/9/e902f7265e07be8001c348a78c75a6e386f17912
-C
-src/chess/Rook.java,9/0/90e9085f11d63066f3ca3611ab668bea0cd87214
 J
 src/chess/pieces/Rook.java,f/f/ff69bb3f200ec2b38c7858168986f747562072f9
-Q
-!src/chess/pieces/pieces/King.java,9/b/9b58685a136f3013d8ced34ab0607b42251c2586
 J
 src/chess/pieces/King.java,d/9/d9b3000faae84ba619d472bc343f9814addae9c3
+Q
+!src/boardgame/BoardException.java,c/d/cd20c15b434e2bd9d33b559985a9b393401fdb2d
