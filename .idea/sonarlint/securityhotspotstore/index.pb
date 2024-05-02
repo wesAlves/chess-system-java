@@ -28,8 +28,6 @@ I
 src/chess/ChessMatch.java,a/f/afffe56e7c2d80517c9aec9f344453fe3e900f7c
 G
 src/application/UI.java,f/0/f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
-w
-G.idea/sonarlint/issuestore/6/f/6f5048016a57bbf452eb3bb3965bb62dfb909033,a/b/ab8d3f9fb91b77409ab18f8cd3ab8cceae13009e
 J
 src/chess/enums/Color.java,e/9/e902f7265e07be8001c348a78c75a6e386f17912
 J
