@@ -5,7 +5,7 @@ public abstract class Piece {
     protected Position position;
     private Board board;
 
-    Piece(Board board) {
+    protected Piece(Board board) {
         this.board = board;
     }
 
@@ -16,10 +16,8 @@ public abstract class Piece {
     public abstract boolean[][] possibleMoves();
 
     public boolean possibleMove(Position position) {
-        /*This is a hook method that makes a direct relation with subclass implementation of 
-        the ae abstract method of possibleMoves
-        We could use template method with that approach
-        */
+        //This is a hook method that makes a direct relation with subclass implementation of the ae abstract method of possibleMoves
+        //We could use template method with that approach
         return possibleMoves()[position.getRow()][position.getColumn()];
     }
 
